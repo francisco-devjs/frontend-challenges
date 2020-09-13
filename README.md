@@ -1,5 +1,6 @@
 # frontend-challenges
 Created to improve my front-end skills. Only solutionated challenges.
+All pages are hosted on Githubpages.
 
 #001
   Simple Login/register page.<br>
@@ -10,7 +11,7 @@ Created to improve my front-end skills. Only solutionated challenges.
     solution: <a href="https://francisco-devjs.github.io/frontend-challenges/challenge-002/index.html">challenge-002</a>
     
  #003
-  Lights On/off login.<br>
+  DarkTheme On/off button.<br>
     solution: <a href="https://francisco-devjs.github.io/frontend-challenges/challenge-003/index.html">challenge-003</a>
     
  #004
